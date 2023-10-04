@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/think1st-test-task/static/css/main.7b5b5123.css",
+    "main.js": "/think1st-test-task/static/js/main.d899674e.js",
+    "index.html": "/think1st-test-task/index.html",
+    "main.7b5b5123.css.map": "/think1st-test-task/static/css/main.7b5b5123.css.map",
+    "main.d899674e.js.map": "/think1st-test-task/static/js/main.d899674e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b5b5123.css",
+    "static/js/main.d899674e.js"
+  ]
+}
